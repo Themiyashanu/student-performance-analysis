@@ -1,0 +1,26 @@
+
+STUDENT PERFORMANCE ANALYSIS - PROJECT SUMMARY
+=============================================
+
+Dataset Overview:
+• Total Students: 1000
+• Features: 9
+• Score Range: 0-100
+
+Key Findings:
+• Average Scores: Math(66.1), Reading(69.2), Writing(68.1)
+• High correlation between reading and writing scores (0.955)
+• Test preparation shows positive impact on performance
+• Parental education level correlates with student performance
+
+Machine Learning Results:
+• Best Model: Linear Regression
+• Best R² Score: 0.931
+
+Most Important Features:
+                    feature  importance
+              reading score    0.926231
+                 math score    0.029460
+parental level of education    0.011978
+
+Generated on: 2025-08-03 10:40:37
